@@ -5,7 +5,7 @@
   
 ### File Delta Tracker
 
-AWB repo added with a folder `FileDeltaTracker`. This project aims to track difference in any periods in the cost input files which finance teams can produces every month and has risk of change in postings for historical months. There would be issue in validating profit model with dynamics. 
+This project aims to track difference in any periods in the cost input files which finance teams can produces every month and has risk of change in postings for historical months. There would be issue in validating profit model with dynamics. 
 
 
 ## Whats included in FileDeltaTracker project
