@@ -5,8 +5,7 @@
   
 ### File Delta Tracker
 
-This project aims to track difference in any periods in the cost input files which finance teams can produces every month and has risk of change in postings for historical months. There would be issue in validating profit model with dynamics. 
-
+This project aims to track difference in any periods in the manual cost input files which finance teams can produces every month and has risk of change in postings for historical months. These manual files can be exported from systems like Dynamics or Oracle ebusiness Suite etc
 
 ## Whats included in FileDeltaTracker project
 
