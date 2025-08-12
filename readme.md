@@ -45,8 +45,16 @@ or
 
 >         'conda activate C:\FileDeltaTracker\.conda\filedeltatrackerenv'                  
 
+add excel file with ValidationsConfix.xlsx
+Tab: FilesList
+Table Columns: fileidentifier	column	position	type	AllowNulls	length	unique	ValueColumn	PeriodColumn
+Tab: Columns
+Table Columns: fileidentifier	filename	Encoding	IsEnabled	Warehouse	Country	Accounts
 
-Open Notebook [deltatrackingnotebook](/deltatrackingnotebook.ipynb) and select the new environment in top right corner 
+
+Open Notebook [deltatrackingnotebook](/deltatrackingnotebook.py) and select the new environment in top right corner 
+
+
 
 Run each cell
 
